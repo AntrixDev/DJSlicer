@@ -1,7 +1,3 @@
-<<<<<<< HEAD
--npm install
--npx expo start
-=======
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,20:ffacc6,80:e04a85&section=header" alt="Header Wave"/>
 
 <div align="center">
