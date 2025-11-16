@@ -16,7 +16,7 @@ Welcome to **DJ Slicer**!  A fun, single-player rhythm-based game built with Rea
 ## Installation
 
 1. Install Expo Go on your mobile device (Android or iOS).
-2. Clone this repo: `git clone `.
+2. Clone this repo: `git clone https://github.com/AntrixDev/DJSlicer.git`.
 3. Navigate to the project: `cd DJSlicer`.
 4. Install dependencies: `npm install`.
 5. Start the app: `npx expo start`.
