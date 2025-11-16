@@ -70,4 +70,3 @@ Choose your vibe with these modes:
 </div>
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,20:ffacc6,80:e04a85&section=footer" alt="Footer Wave"/>
->>>>>>> e377798185c8ed2a193faff9da1bc432f7e4fb81
